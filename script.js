@@ -46,7 +46,7 @@ function calculateBMI() {
         else result.innerHTML =
             `Over Weight : <span>${bmi}</span>`;
     }
-=======
+
 window.onload = () => {
     let button = document.querySelector("#btn");
 
@@ -95,4 +95,5 @@ function calculateBMI() {
             `Over Weight : <span>${bmi}</span>`;
     }
      
+}
 }
