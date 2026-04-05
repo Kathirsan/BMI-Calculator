@@ -6,6 +6,7 @@ window.onload = () => {
     button.addEventListener("click", calculateBMI);
 };
 
+
 function calculateBMI() {
 
     /* Getting input from user into height variable.
